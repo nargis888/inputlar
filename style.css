@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(146, 154, 157);
+}
+div{
+    width: 330px;
+    height: 300px;
+    margin: 150px auto;
+    background-color: azure;
+    text-align: center;
+    padding: 10px;
+}
+
+input{
+    margin-top: 8px;
+    margin-bottom: 8px;
+    width: 200px;
+    padding: 5px;
+}
+
+button{
+    padding: 5px;
+    width: 200px;
+    color: white;
+    background-color: blue;
+}
